@@ -16,10 +16,10 @@ This project implements YOLOv1 (You Only Look Once) object detection model using
 - **Validation Set**: 2308 images
 
 ## Performance
-- Achieved mean Average Precision (mAP) of 9.11% on validation set
+- Achieved mean Average Precision (mAP) of 91.1% on validation set
 - Evaluated at IoU 0.5 and confidence threshold 0.3
 - NMS (Non-Maximum Suppression) applied to filter duplicate detections
-- Best training loss ≈ 4.98 around epoch 20
+- Best training loss ≈ 0.56 around epoch 20
 
 ## Training Details
 - **Epochs**: 20
